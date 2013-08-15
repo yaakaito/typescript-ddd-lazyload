@@ -1,0 +1,9 @@
+{
+  "name": "project",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "typescript-dddbase": "https://github.com/yaakaito/typescript-dddbase.git#~0.1.0",
+    "monapt": "https://github.com/yaakaito/monapt.git#0.2.2"
+  }
+}
